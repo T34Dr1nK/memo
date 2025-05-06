@@ -1,4 +1,4 @@
-resolution: 256
+resolution: 512
 num_generated_frames_per_clip: 16
 fps: 30
 num_init_past_frames: 16
